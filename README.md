@@ -5,4 +5,4 @@ This is Game-hub! A beautiful video game discovery application built with React 
 I've always been a big fan of gaming and gaming platforms so I thought of building a video game discovery application and implement some cool features like toggling between the Dark mode and Light mode, filtering and sorting games, and adding game trailers and screenshots.  
 
 ## 🚀 Quick Start
-(https://game-hub-theta-mocha-48.vercel.app/)
+Click on [Game-hub.app](https://game-hub-theta-mocha-48.vercel.app/) to launch it!
